@@ -80,9 +80,14 @@ Use CNN to build an image classifier on model to identify bipolar disorder from 
 <br>
 <em>Essential Genes</em></p>
 
+### Projects 7 (Bioinfo) [Hepatitis Viruses affect the expression of Endogenous Retrovirus and Tumor Microenvironment in HCC](https://www.biorxiv.org/content/10.1101/2022.06.19.496748v1)
 
+<p align="center">
+<img src="/imgs/hERV.jpg">
+<br>
+<em>Endogenous Retrovirus</em></p>
 
-### Projects 7 [Fatal events in Houston](https://github.com/vveizhang/Houston_Fatal_Events)
+### Projects 8 [Fatal events in Houston](https://github.com/vveizhang/Houston_Fatal_Events)
 
 <p align="center">
 <img src="/imgs/crash.jpg">
