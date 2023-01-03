@@ -20,7 +20,7 @@ Web API for sentiment analysis of any input comments about Bitcoin.
 <p align="center">
 <img src="/imgs/bitcoin_schema.png">
 <br>
-<em>Zika Virus</em></p>
+<em>Bitcoin price prediction with Reddit sentiment</em></p>
 
 
 
@@ -35,7 +35,7 @@ A web API to predict if an input RNA sequence circular RNA.
 <p align="center">
 <img src="/imgs/FrontPage.png">
 <br>
-<em>Zika Virus</em></p>
+<em>Transformers to predict circular RNA</em></p>
 
 
 ### Projects 3. [Zika Virus Drug Design using RNN-LSTM and Proteomics](https://github.com/vveizhang/Zika-virus-Drug-Design-using-Generative-RNN-LSTM-and-Proteomics)
@@ -48,7 +48,7 @@ Use virtual molecular docking screening to investigate the binding of drugs to t
 <p align="center">
 <img src="/imgs/PipeLine.png">
 <br>
-<em>Pipe Line</em></p>
+<em>RNN-LSTM Drug Design</em></p>
 
 ### Projects 4. [Marker Genes for Bipolar Disorder selection using mRMR](https://github.com/vveizhang/Gene-signature-to-predict-bipolar-disorder-from-whole-blood-RNA-seq)
 
@@ -58,18 +58,36 @@ Use grid search to choose the best model from various algorithm including Random
 
 
 <p align="center">
-<img src="/imgs/lstm_chem.jpg">
+<img src="/imgs/feature_selection.png">
 <br>
-<em>LSTM-based drug generation</em></p>
+<em>Feature Selection</em></p>
 
 ### Projects 5. [CNN image classifier to identify bipolar disorder from Brain MRI images](https://github.com/vveizhang/CNN-MRI-classification-to-predict-bipolar-disorder/blob/main/CNNimageClassification.ipynb)
 Use CNN to build an image classifier on model to identify bipolar disorder from brain MRI.
 
 
 <p align="center">
-<img src="/imgs/SMILES.png">
+<img src="/imgs/CNN_MRI.png">
 <br>
-<em>SMILES from wikipedia</em></p>
+<em>Convolutional neural network</em></p>
+
+
+
+### Projects 6 (Bioinfo) [Essential Genes from Genome-wide Screening as a Resource for Neurological and Mental Disorders Gene Discovery](https://github.com/vveizhang/EG-in-Neuropsychiatric-Disorders)
+
+<p align="center">
+<img src="/imgs/2GeneList.png">
+<br>
+<em>Essential Genes</em></p>
+
+
+
+### Projects 7 [Fatal events in Houston](https://github.com/vveizhang/Houston_Fatal_Events)
+
+<p align="center">
+<img src="/imgs/crash.jpg">
+<br>
+<em>Fatal Events</em></p>
 
 
 ## Contact
