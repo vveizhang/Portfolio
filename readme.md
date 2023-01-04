@@ -71,7 +71,9 @@ Use CNN to build an image classifier on model to identify bipolar disorder from 
 
 
 ## Projects 6 (Bioinfo) [Essential Genes from Genome-wide Screening as a Resource for Neurological and Mental Disorders Gene Discovery](https://github.com/vveizhang/EG-in-Neuropsychiatric-Disorders)
-
+By data mining of 6 publicly available case-control RNA sequencing dataset, we found that NEGs are more likely to exhibit differential expression in brain tissue in neuropsychiatric disorders compared to ACEGs.
+WGCNA analysis of human brainspan dataset, we found that NEGs and ACEGs are enriched in different co-expression networks and show different temporal expression patterns.
+GWAS data and rare variants data for neuropsychiatric disorders shows that ACEGs are exclusively enriched in neurodevelopmental disorders, while NEGs are related to neurodevelopmental, psychiatric, and neurodegenerative diseases.
 <p align="center">
 <img src="/imgs/2GeneList.png" alt="Essential Genes" width="800"/>
 <br>
