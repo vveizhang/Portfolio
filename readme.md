@@ -30,7 +30,7 @@ Build and deploy a transformer model to predict if any given RNA sequences can f
 A web API to predict if an input RNA sequence circular RNA.
 
 <p align="center">
-<img src="/imgs/FrontPage.png" width="800"/>
+<img src="/imgs/FrontPage.png" alt="Transformers to predict circular RNA" width="800"/>
 <br>
 </p>
 
@@ -43,9 +43,9 @@ Generate candidate and fine-tune with validated drugs using RNN-LSTM.
 Use virtual molecular docking screening to investigate the binding of drugs to target proteins.
 
 <p align="center">
-<img src="/imgs/PipeLine.png">
+<img src="/imgs/PipeLine.png" alt="RNN-LSTM Drug Design" width="800"/>
 <br>
-<em>RNN-LSTM Drug Design</em></p>
+</p>
 
 ## Projects 4. [Marker Genes for Bipolar Disorder selection using mRMR](https://github.com/vveizhang/Gene-signature-to-predict-bipolar-disorder-from-whole-blood-RNA-seq)
 
@@ -64,9 +64,9 @@ Use CNN to build an image classifier on model to identify bipolar disorder from 
 
 
 <p align="center">
-<img src="/imgs/CNN_MRI.png">
+<img src="/imgs/CNN_MRI.png" alt="CNN" width="800"/>
 <br>
-<em>Convolutional neural network</em></p>
+</p>
 
 
 
