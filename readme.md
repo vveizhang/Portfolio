@@ -32,7 +32,7 @@ A web API to predict if an input RNA sequence circular RNA.
 <p align="center">
 <img src="/imgs/FrontPage.png" width="800"/>
 <br>
-<em>Transformers to predict circular RNA</em></p>
+</p>
 
 
 ## Projects 3. [Zika Virus Drug Design using RNN-LSTM and Proteomics](https://github.com/vveizhang/Zika-virus-Drug-Design-using-Generative-RNN-LSTM-and-Proteomics)
