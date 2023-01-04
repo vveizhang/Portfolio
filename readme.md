@@ -15,12 +15,9 @@ Automatically web scraping and sentiment analyze everyday reddit comments regard
 Predict next day Bitcoin price using sentiment counts and historical bitcoin price data and daily-updating on a dashboard.
 
 Web API for sentiment analysis of any input comments about Bitcoin.
+![](/imgs/bitcoin_schema.png)
 
 
-<p align="center">
-<img src="/imgs/bitcoin_schema.png">
-<br>
-<em>Bitcoin price prediction with Reddit sentiment</em></p>
 
 
 
