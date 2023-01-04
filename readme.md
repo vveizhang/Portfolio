@@ -30,7 +30,7 @@ Build and deploy a transformer model to predict if any given RNA sequences can f
 A web API to predict if an input RNA sequence circular RNA.
 
 <p align="center">
-<img src="/imgs/FrontPage.png">
+<img src="/imgs/FrontPage.png" width="800"/>
 <br>
 <em>Transformers to predict circular RNA</em></p>
 
