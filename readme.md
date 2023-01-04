@@ -83,7 +83,7 @@ Portfolio
 * single-cell RNA sequencing analysis to deconvolute the immune landscape and tumor heterogeneity in a cohort of patients with hepatitis virus (HBV, HCV, HDV) associated human hepatocellular carcinoma (HCC).
 * Re-analyze the bulk RNA-seq data for the cohort to include the expression values of human Endogenous Retrovirus (hERV), and found correlations with hepatitis virus status.
 <p align="center">
-<img src="/imgs/hERV.jpg" alt="Endogenous Retrovirus" width="800"/>
+<img src="/imgs/hERV.jpg" alt="Endogenous Retrovirus" width="600"/>
 <br>
 </p>
 
