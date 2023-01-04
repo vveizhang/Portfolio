@@ -80,14 +80,16 @@ Portfolio
 </p>
 
 ## Projects 7 (Bioinfo) [Hepatitis Viruses affect the expression of Endogenous Retrovirus and Tumor Microenvironment in HCC](https://www.biorxiv.org/content/10.1101/2022.06.19.496748v1)
-
+* single-cell RNA sequencing analysis to deconvolute the immune landscape and tumor heterogeneity in a cohort of patients with hepatitis virus (HBV, HCV, HDV) associated human hepatocellular carcinoma (HCC).
+* Re-analyze the bulk RNA-seq data for the cohort to include the expression values of human Endogenous Retrovirus (hERV), and found correlations with hepatitis virus status.
 <p align="center">
 <img src="/imgs/hERV.jpg" alt="Endogenous Retrovirus" width="800"/>
 <br>
 </p>
 
 ## Projects 8 [Fatal events in Houston](https://github.com/vveizhang/Houston_Fatal_Events)
-
+* Web Scraping fatal events reports from HPD oﬃcial website, ETL using python and load as data frame.
+* Visualization and summarization using Tableau.
 <p align="center">
 <img src="/imgs/crash.jpg" alt="Fatal Events" width="800"/>
 <br>
