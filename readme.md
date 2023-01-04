@@ -6,7 +6,7 @@ Portfolio
 
 
 
-#Projects
+# Projects
 
 ## Projects 1. [Bitcoin price prediction using Reddit comments sentiment analysis](https://github.com/vveizhang/Bitcoin_Social_Media_Sentiment_Analysis)
 
