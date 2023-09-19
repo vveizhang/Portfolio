@@ -13,7 +13,9 @@ Portfolio
 * Personalized medicine targets unique group of genes for patient based on the individual's unique genetic background and symptom thus the report building is time-consuming and involoves large amout of documents reading.
 
 * To build a document Question-Answering model use langchain and LLM, this report can be automated. Saved 90% of the time for report building. ([Online pdf chatbot demo](http://3.139.78.107:8501))here)
-
+<p align="center">
+<img src="/imgs/Langchain_pdf.png" alt="schema" width="800"/>
+</p>
 
 ## Projects 2. [Bitcoin price prediction using Reddit comments sentiment analysis](https://github.com/vveizhang/Bitcoin_Social_Media_Sentiment_Analysis)
 
@@ -34,7 +36,7 @@ Portfolio
 
 * Build and deploy a transformer model to predict if any given RNA sequences can form circular RNA, with 0.943 accuracy.
 
-* A [web App](http://3.145.73.72:8501/) to predict if an input RNA sequence circular RNA.
+* A [web App](http://3.133.156.115:8501/) to predict if an input RNA sequence circular RNA.
 
 <p align="center">
 <img src="/imgs/FrontPage.png" alt="Transformers to predict circular RNA" width="800"/>
