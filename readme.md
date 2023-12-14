@@ -12,7 +12,7 @@ Portfolio
 
 * Personalized medicine targets unique group of genes for patient based on the individual's unique genetic background and symptom thus the report building is time-consuming and involoves large amout of documents reading.
 
-* To build a document Question-Answering model use langchain and LLM, this report can be automated. Saved 90% of the time for report building. ([Online pdf chatbot demo](http://3.139.78.107:8501))here)
+* To build a document Question-Answering model use langchain and LLM, this report can be automated. Saved 90% of the time for report building. ([Online pdf chatbot demo](http://3.135.225.83:8501))here)
 <p align="center">
 <img src="/imgs/Langchain_pdf.png" alt="schema" width="800"/>
 </p>
