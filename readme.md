@@ -34,7 +34,7 @@ Portfolio
 
 * Adapt transformer NLP model to analyze DNA/RNA sequence.
 
-* Build and deploy a transformer model to predict if any given RNA sequences can form circular RNA, with 0.943 accuracy.
+* Build and deploy a transformer model to predict if any given RNA sequences can form circular RNA, with 0.92 auROC.
 
 * A [web App](http://18.226.34.69:8501/) to predict if an input RNA sequence circular RNA.
 
