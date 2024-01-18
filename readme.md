@@ -10,14 +10,23 @@ Portfolio
 
 ## Projects 1. [Document Question-Answering bot](https://github.com/vveizhang/chatPDF)
 
+* The Langchain CSV/pandas Agent is a specialized tool designed to interact with data stored in table files. It's primarily optimized for question-answering tasks, allowing users to pose natural language queries about the data within the table files. 
+
+* The agent can do regular analysis for you, based on your input natural language query. ([Online csv agent demo](http://18.226.34.69:8502))here)
+<p align="center">
+<img src="/imgs/pandas_agent.png" alt="schema" width="800"/>
+</p>
+
+## Projects 2. [Document Question-Answering bot](https://github.com/vveizhang/chatPDF)
+
 * Personalized medicine targets unique group of genes for patient based on the individual's unique genetic background and symptom thus the report building is time-consuming and involoves large amout of documents reading.
 
-* To build a document Question-Answering model use langchain and LLM, this report can be automated, by uploading pdf files to the chatbot, and ask questions. The chatbot will read the pdf files for you and summarize the content. Saved 90% of the time for report building by using the chatbot to read scientific papers for you. ([Online pdf chatbot demo](http://3.135.225.83:8501))here)
+* To build a document Question-Answering model use langchain and LLM, this report can be automated, by uploading pdf files to the chatbot, and ask questions. The chatbot will read the pdf files for you and summarize the content. Saved 90% of the time for report building by using the chatbot to read scientific papers for you. ([Online pdf chatbot demo](http://18.226.34.69:8501))here)
 <p align="center">
 <img src="/imgs/Langchain_pdf.png" alt="schema" width="800"/>
 </p>
 
-## Projects 2. [Bitcoin price prediction using Reddit comments sentiment analysis](https://github.com/vveizhang/Bitcoin_Social_Media_Sentiment_Analysis)
+## Projects 3. [Bitcoin price prediction using Reddit comments sentiment analysis](https://github.com/vveizhang/Bitcoin_Social_Media_Sentiment_Analysis)
 
 * Automatically web scraping and sentiment analyze everyday reddit comments regarding Bitcoin.
 
@@ -30,7 +39,7 @@ Portfolio
 
 
 
-## Projects 3. [Transformers to predict circular RNA](https://github.com/vveizhang/transformer_predict_circRNA)
+## Projects 4. [Transformers to predict circular RNA](https://github.com/vveizhang/transformer_predict_circRNA)
 
 * Adapt transformer NLP model to analyze DNA/RNA sequence.
 
@@ -44,7 +53,7 @@ Portfolio
 </p>
 
 
-## Projects 4. [Zika Virus Drug Design using RNN-LSTM and Proteomics](https://github.com/vveizhang/Zika-virus-Drug-Design-using-Generative-RNN-LSTM-and-Proteomics)
+## Projects 5. [Zika Virus Drug Design using RNN-LSTM and Proteomics](https://github.com/vveizhang/Zika-virus-Drug-Design-using-Generative-RNN-LSTM-and-Proteomics)
 * Use proteomics analysis to identify proteins associated with Zika virus infection.
 
 * Generate candidate and fine-tune with validated drugs using RNN-LSTM.
@@ -56,7 +65,7 @@ Portfolio
 <br>
 </p>
 
-## Projects 5. [Marker Genes for Bipolar Disorder selection using mRMR](https://github.com/vveizhang/Gene-signature-to-predict-bipolar-disorder-from-whole-blood-RNA-seq)
+## Projects 6. [Marker Genes for Bipolar Disorder selection using mRMR](https://github.com/vveizhang/Gene-signature-to-predict-bipolar-disorder-from-whole-blood-RNA-seq)
 
 * Build a model to predict bipolar disorders from blood RNA-seq with only 10 features (genes), with 0.91 accuracy score.
 
@@ -68,7 +77,7 @@ Portfolio
 <br>
 <em>Feature Selection</em></p>
 
-## Projects 6. [CNN image classifier to identify bipolar disorder from Brain MRI images](https://github.com/vveizhang/CNN-MRI-classification-to-predict-bipolar-disorder/blob/main/CNNimageClassification.ipynb)
+## Projects 7. [CNN image classifier to identify bipolar disorder from Brain MRI images](https://github.com/vveizhang/CNN-MRI-classification-to-predict-bipolar-disorder/blob/main/CNNimageClassification.ipynb)
 * Use CNN to build an image classifier on model to identify bipolar disorder from brain MRI.
 
 
@@ -79,7 +88,7 @@ Portfolio
 
 
 
-## Projects 7 (Bioinfo) [Essential Genes from Genome-wide Screening as a Resource for Neurological and Mental Disorders Gene Discovery](https://github.com/vveizhang/EG-in-Neuropsychiatric-Disorders)
+## Projects 8 (Bioinfo) [Essential Genes from Genome-wide Screening as a Resource for Neurological and Mental Disorders Gene Discovery](https://github.com/vveizhang/EG-in-Neuropsychiatric-Disorders)
 * By data mining of 6 publicly available case-control RNA sequencing dataset, we found that NEGs are more likely to exhibit differential expression in brain tissue in neuropsychiatric disorders compared to ACEGs.
 * WGCNA analysis of human brainspan dataset, we found that NEGs and ACEGs are enriched in different co-expression networks and show different temporal expression patterns.
 * GWAS data and rare variants data for neuropsychiatric disorders shows that ACEGs are exclusively enriched in neurodevelopmental disorders, while NEGs are related to neurodevelopmental, psychiatric, and neurodegenerative diseases.
@@ -88,7 +97,7 @@ Portfolio
 <br>
 </p>
 
-## Projects 8 (Bioinfo) [Hepatitis Viruses affect the expression of Endogenous Retrovirus and Tumor Microenvironment in HCC](https://www.biorxiv.org/content/10.1101/2022.06.19.496748v1)
+## Projects 9 (Bioinfo) [Hepatitis Viruses affect the expression of Endogenous Retrovirus and Tumor Microenvironment in HCC](https://www.biorxiv.org/content/10.1101/2022.06.19.496748v1)
 * single-cell RNA sequencing analysis to deconvolute the immune landscape and tumor heterogeneity in a cohort of patients with hepatitis virus (HBV, HCV, HDV) associated human hepatocellular carcinoma (HCC).
 * Re-analyze the bulk RNA-seq data for the cohort to include the expression values of human Endogenous Retrovirus (hERV), and found correlations with hepatitis virus status.
 <p align="center">
@@ -96,7 +105,7 @@ Portfolio
 <br>
 </p>
 
-## Projects 9 [Fatal events in Houston](https://github.com/vveizhang/Houston_Fatal_Events)
+## Projects 10 [Fatal events in Houston](https://github.com/vveizhang/Houston_Fatal_Events)
 * Web Scraping fatal events reports from HPD oﬃcial website, ETL using python and load as data frame.
 * Visualization and summarization using Tableau.
 <p align="center">
