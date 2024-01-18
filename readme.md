@@ -8,7 +8,7 @@ Portfolio
 
 # Projects
 
-## Projects 1. [Document Question-Answering bot](https://github.com/vveizhang/chatPDF)
+## Projects 1. [Document Question-Answering bot](https://github.com/vveizhang/TableChat)
 
 * The Langchain CSV/pandas Agent is a specialized tool designed to interact with data stored in table files. It's primarily optimized for question-answering tasks, allowing users to pose natural language queries about the data within the table files. 
 
