@@ -67,7 +67,7 @@ Portfolio
 
 ## Projects 6. [Marker Genes for Bipolar Disorder selection using mRMR](https://github.com/vveizhang/Gene-signature-to-predict-bipolar-disorder-from-whole-blood-RNA-seq)
 
-* Build a model to predict bipolar disorders from blood RNA-seq with only 10 features (genes), with 0.91 accuracy score.
+* Build a model to predict bipolar disorders from blood RNA-seq with only 30 features (genes), with AUROC of 0.91.
 
 * Use grid search to choose the best model from various algorithm including Random Forest, SVM, XGB/Gradient Boosting, LightGBM, Catboost to predict bipolar disorder.
 
