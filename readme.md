@@ -8,11 +8,11 @@ Portfolio
 
 # Projects
 
-## Projects 1. [Table data analysis agent/bot](https://github.com/vveizhang/TableChat)
+## Projects 1. [Multimodal pdf RAG with langgraph]
 
-* The Langchain CSV/pandas Agent is a specialized tool designed to interact with data stored in table files. It's primarily optimized for question-answering tasks, allowing users to pose natural language queries about the data within the table files. 
+* LangGraph is a library built on top of LangChain, designed for creating stateful, multi-agent applications with LLMs (large language models). It enables the construction of cyclical graphs, often needed for agent runtimes, and extends the LangChain Expression Language to coordinate multiple chains or actors across multiple steps. 
 
-* The agent can do regular analysis for you, based on your input natural language query. ([Online csv agent demo](http://18.226.34.69:8502))here)
+* Pdf files can contain multimodal data, including text, table, figure. Using LangGraph, I built a Multimodal pdf RAG app with web searching function, when you ask something that's not in the pdf file, the app will retrive the answer on internet. ([Multimodal pdf RAG demo](http://18.226.34.69:8502))here)
 <p align="center">
 <img src="/imgs/pandas_agent.png" alt="schema" width="800"/>
 </p>
