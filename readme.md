@@ -14,7 +14,7 @@ Portfolio
 
 * Pdf files can contain multimodal data, including text, table, figure. Using LangGraph, I built a Multimodal pdf RAG app with web searching function, when you ask something that's not in the pdf file, the app will retrive the answer on internet. ([Multimodal pdf RAG demo](http://18.226.34.69:8502))here)
 <p align="center">
-<img src="/imgs/pandas_agent.png" alt="schema" width="800"/>
+<img src="/imgs/LangGraph.jpg" alt="schema" width="800"/>
 </p>
 
 ## Projects 2. [Document Question-Answering bot](https://github.com/vveizhang/chatPDF)
