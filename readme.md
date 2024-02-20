@@ -8,7 +8,7 @@ Portfolio
 
 # Projects
 
-## Projects 1. [Multimodal pdf RAG with langgraph]
+## Projects 1. [Multimodal pdf RAG with langgraph](https://github.com/vveizhang/Multi-modal-agent-pdf-RAG-with-langgraph)
 
 * LangGraph is a library built on top of LangChain, designed for creating stateful, multi-agent applications with LLMs (large language models). It enables the construction of cyclical graphs, often needed for agent runtimes, and extends the LangChain Expression Language to coordinate multiple chains or actors across multiple steps. 
 
