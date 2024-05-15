@@ -12,7 +12,7 @@ Portfolio
 
 * LangGraph is a library built on top of LangChain, designed for creating stateful, multi-agent applications with LLMs (large language models). It enables the construction of cyclical graphs, often needed for agent runtimes, and extends the LangChain Expression Language to coordinate multiple chains or actors across multiple steps. 
 
-* Pdf files can contain multimodal data, including text, table, figure. Using LangGraph, I built a Multimodal pdf RAG app with web searching function, when you ask something that's not in the pdf file, the app will retrive the answer on internet. ([Multimodal pdf RAG demo](http://18.226.34.69:8502))here)
+* Pdf files can contain multimodal data, including text, table, figure. Using LangGraph, I built a Multimodal pdf RAG app with web searching function, when you ask something that's not in the pdf file, the app will retrive the answer on internet. ([Multimodal pdf RAG demo](http://18.117.113.239:8502))here)
 <p align="center">
 <img src="/imgs/LangGraph.jpg" alt="schema" width="800"/>
 </p>
@@ -21,7 +21,7 @@ Portfolio
 
 * Personalized medicine targets unique group of genes for patient based on the individual's unique genetic background and symptom thus the report building is time-consuming and involoves large amout of documents reading.
 
-* To build a document Question-Answering model use langchain and LLM, this report can be automated, by uploading pdf files to the chatbot, and ask questions. The chatbot will read the pdf files for you and summarize the content. Saved 90% of the time for report building by using the chatbot to read scientific papers for you. ([Online pdf chatbot demo](http://18.226.34.69:8503))here)
+* To build a document Question-Answering model use langchain and LLM, this report can be automated, by uploading pdf files to the chatbot, and ask questions. The chatbot will read the pdf files for you and summarize the content. Saved 90% of the time for report building by using the chatbot to read scientific papers for you. ([Online pdf chatbot demo](http://18.117.113.239:8503))here)
 <p align="center">
 <img src="/imgs/Langchain_pdf.png" alt="schema" width="800"/>
 </p>
