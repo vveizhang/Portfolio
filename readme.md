@@ -7,7 +7,7 @@ Portfolio
 
 
 # Projects
-## Projects 1. [Multimodal pdf RAG with langgraph](https://github.com/vveizhang/Multi-modal-agent-pdf-RAG-with-langgraph)
+## Projects 1. Build you Own Perplexity
 
 * Perplexity AI is an AI-chatbot-powered research and conversational search engine that answers queries using natural language predictive text. Perplexity is also a search engine. Instead of presenting you with a list of websites that match your query, Perplexity gives you a short summary answer and the references it used to create. In some cases, the summary will be all you need. In others, you'll want to dive into the different sources. 
 
