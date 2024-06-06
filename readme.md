@@ -73,30 +73,8 @@ Portfolio
 <br>
 </p>
 
-## Projects 7. [Marker Genes for Bipolar Disorder selection using mRMR](https://github.com/vveizhang/Gene-signature-to-predict-bipolar-disorder-from-whole-blood-RNA-seq)
 
-* Build a model to predict bipolar disorders from blood RNA-seq with only 30 features (genes), with AUROC of 0.91.
-
-* Use grid search to choose the best model from various algorithm including Random Forest, SVM, XGB/Gradient Boosting, LightGBM, Catboost to predict bipolar disorder.
-
-
-<p align="center">
-<img src="imgs/feature_selection.png">
-<br>
-<em>Feature Selection</em></p>
-
-## Projects 8. [CNN image classifier to identify bipolar disorder from Brain MRI images](https://github.com/vveizhang/CNN-MRI-classification-to-predict-bipolar-disorder/blob/main/CNNimageClassification.ipynb)
-* Use CNN to build an image classifier on model to identify bipolar disorder from brain MRI.
-
-
-<p align="center">
-<img src="imgs/CNN_MRI.png" alt="CNN" width="800"/>
-<br>
-</p>
-
-
-
-## Projects 9 (Bioinfo) [Essential Genes from Genome-wide Screening as a Resource for Neurological and Mental Disorders Gene Discovery](https://github.com/vveizhang/EG-in-Neuropsychiatric-Disorders)
+## Projects 7 (Bioinfo) [Essential Genes from Genome-wide Screening as a Resource for Neurological and Mental Disorders Gene Discovery](https://github.com/vveizhang/EG-in-Neuropsychiatric-Disorders)
 * By data mining of 6 publicly available case-control RNA sequencing dataset, we found that NEGs are more likely to exhibit differential expression in brain tissue in neuropsychiatric disorders compared to ACEGs.
 * WGCNA analysis of human brainspan dataset, we found that NEGs and ACEGs are enriched in different co-expression networks and show different temporal expression patterns.
 * GWAS data and rare variants data for neuropsychiatric disorders shows that ACEGs are exclusively enriched in neurodevelopmental disorders, while NEGs are related to neurodevelopmental, psychiatric, and neurodegenerative diseases.
@@ -105,7 +83,7 @@ Portfolio
 <br>
 </p>
 
-## Projects 10 (Bioinfo) [Hepatitis Viruses affect the expression of Endogenous Retrovirus and Tumor Microenvironment in HCC](https://www.biorxiv.org/content/10.1101/2022.06.19.496748v1)
+## Projects 8 (Bioinfo) [Hepatitis Viruses affect the expression of Endogenous Retrovirus and Tumor Microenvironment in HCC](https://www.biorxiv.org/content/10.1101/2022.06.19.496748v1)
 * single-cell RNA sequencing analysis to deconvolute the immune landscape and tumor heterogeneity in a cohort of patients with hepatitis virus (HBV, HCV, HDV) associated human hepatocellular carcinoma (HCC).
 * Re-analyze the bulk RNA-seq data for the cohort to include the expression values of human Endogenous Retrovirus (hERV), and found correlations with hepatitis virus status.
 <p align="center">
@@ -113,7 +91,7 @@ Portfolio
 <br>
 </p>
 
-## Projects 11 [Fatal events in Houston](https://github.com/vveizhang/Houston_Fatal_Events)
+## Projects 9 [Fatal events in Houston](https://github.com/vveizhang/Houston_Fatal_Events)
 * Web Scraping fatal events reports from HPD oﬃcial website, ETL using python and load as data frame.
 * Visualization and summarization using Tableau.
 <p align="center">
