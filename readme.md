@@ -20,7 +20,7 @@ Portfolio
 
 * LangGraph is a library built on top of LangChain, designed for creating stateful, multi-agent applications with LLMs (large language models). It enables the construction of cyclical graphs, often needed for agent runtimes, and extends the LangChain Expression Language to coordinate multiple chains or actors across multiple steps. 
 
-* Pdf files can contain multimodal data, including text, table, figure. Using LangGraph, I built a Multimodal pdf RAG app with web searching function, when you ask something that's not in the pdf file, the app will retrive the answer on internet. ([Multimodal pdf RAG demo](http://18.117.113.239:8502))here)
+* Pdf files can contain multimodal data, including text, table, figure. Using LangGraph, I built a Multimodal pdf RAG app with web searching function, when you ask something that's not in the pdf file, the app will retrive the answer on internet.
 <p align="center">
 <img src="imgs/LangGraph.jpg" alt="schema" width="800"/>
 </p>
