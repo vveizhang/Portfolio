@@ -11,7 +11,7 @@ Portfolio
 
 * Perplexity AI is an AI-chatbot-powered research and conversational search engine that answers queries using natural language predictive text. Perplexity is also a search engine. Instead of presenting you with a list of websites that match your query, Perplexity gives you a short summary answer and the references it used to create. In some cases, the summary will be all you need. In others, you'll want to dive into the different sources. 
 
-* To build your own Perplexity AI (simplified version), you need only Langchain, an LLM, and a web search API. Here is my own Perplexity; you can try the demo here: ([My Own Perplexity demo](http://18.117.113.239:8501/))here)
+* To build your own Perplexity AI (simplified version), you need only Langchain, an LLM, and a web search API. Here is my own Perplexity; you can try the demo here: ([My Own Perplexity demo](http://18.191.173.64:8501/))here)
 <p align="center">
 <img src="imgs/OwnPerplexity.png" alt="schema" width="800"/>
 </p>
