@@ -53,7 +53,7 @@ Portfolio
 
 * Build and deploy a transformer model to predict if any given RNA sequences can form circular RNA, with 0.92 auROC.
 
-* A [web App](http://18.117.113.239:8504/) to predict if an input RNA sequence circular RNA.
+* A [web App](http://18.191.173.64:8504/) to predict if an input RNA sequence circular RNA.
 
 <p align="center">
 <img src="imgs/FrontPage.png" alt="Transformers to predict circular RNA" width="800"/>
