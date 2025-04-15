@@ -29,7 +29,7 @@ Portfolio
 
 * Personalized medicine targets unique group of genes for patient based on the individual's unique genetic background and symptom thus the report building is time-consuming and involoves large amout of documents reading.
 
-* To build a document Question-Answering model use langchain and LLM, this report can be automated, by uploading pdf files to the chatbot, and ask questions. The chatbot will read the pdf files for you and summarize the content. Saved 90% of the time for report building by using the chatbot to read scientific papers for you. ([Online pdf chatbot demo](http://18.191.173.64:8503))here)
+* To build a document Question-Answering model use langchain and LLM, this report can be automated, by uploading pdf files to the chatbot, and ask questions. The chatbot will read the pdf files for you and summarize the content. Saved 90% of the time for report building by using the chatbot to read scientific papers for you. ([Online pdf chatbot demo](http://18.191.173.64:8502))here)
 <p align="center">
 <img src="imgs/Langchain_pdf.png" alt="schema" width="800"/>
 </p>
@@ -53,7 +53,7 @@ Portfolio
 
 * Build and deploy a transformer model to predict if any given RNA sequences can form circular RNA, with 0.92 auROC.
 
-* A [web App](http://18.191.173.64:8504/) to predict if an input RNA sequence circular RNA.
+* A [web App](http://18.191.173.64:8503/) to predict if an input RNA sequence circular RNA.
 
 <p align="center">
 <img src="imgs/FrontPage.png" alt="Transformers to predict circular RNA" width="800"/>
